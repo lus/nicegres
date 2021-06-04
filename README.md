@@ -30,4 +30,4 @@ docker run -d \
 
 ## The built image is old / Postgres got an update. What should I do?
 
-You can either build the image yourself by using the `docker build` command or open an issue to make me re-build the image.
+nicegres will be rebuilt every 24h. If it is mandatory to update it beforehand, build the image yourself or tell me to manually trigger it.
